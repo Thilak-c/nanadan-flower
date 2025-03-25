@@ -17,6 +17,12 @@
 /.next/
 /out/
 
+
+# Example .gitignore in a Next.js project
+node_modules
+.next
+out
+
 # production
 /build
 
