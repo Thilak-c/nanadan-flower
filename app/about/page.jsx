@@ -159,7 +159,7 @@ const About = () => {
                 <a href=" https://api.whatsapp.com/send?phone=+917979962614&amp;text=Hi, from the website"
                     target="_blank" rel="noreferrer nofollow">
 
-                    <button className="mt-6 px-8 py-3 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 shadow-lg transition-all"
+                    <button className="mt-6 px-8 py-3 bg-blue-600 text-white rounded-lg font-bold hover:bg-blue-700 on-all"
                     >
                         Contact Us Now
                     </button>

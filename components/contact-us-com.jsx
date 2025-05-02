@@ -46,12 +46,12 @@ const ContactUs = () => {
   return (
     <div className="bg-gray-100 w-full text-black">
       {/* Header Section */}
-     
+
 
       {/* Contact Section */}
       <div className="container mx-auto py-12 px-6 grid grid-cols-1 md:grid-cols-2 gap-8 animate-slide-up">
         {/* Contact Form */}
-        <div className="bg-gray-100 p-8 rounded-lg shadow-lg">
+        <div className="bg-gray-100 p-8 rounded-lg ">
           <h2 className="text-3xl font-semibold mb-6 text-center text-red-400">
             Send Us a Message
           </h2>
@@ -119,7 +119,7 @@ const ContactUs = () => {
 
         {/* Contact Details */}
         <div className="space-y-8">
-          <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg shadow-lg hover:bg-gray-200 transition transform hover:-translate-y-1">
+          <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg  hover:bg-gray-200 transition transform hover:-translate-y-1">
             <div className="text-red-400 text-3xl  animate-bounce">
               <i className="fas fa-map-marker-alt"></i>
             </div>
@@ -128,7 +128,7 @@ const ContactUs = () => {
               <p className="text-gray-400">nera sai mandir,patliputra polytechnic more, Bihar 800013</p>
             </div>
           </div>
-          <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg shadow-lg hover:bg-gray-200 transition transform hover:-translate-y-1">
+          <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg  hover:bg-gray-200 transition transform hover:-translate-y-1">
             <div className="text-red-400 text-3xl animate-spin">
               <i className="fas fa-phone-alt"></i>
             </div>
@@ -138,7 +138,7 @@ const ContactUs = () => {
               <p className="text-gray-400">(+91) 9304991017</p>
             </div>
           </div>
-          {/* <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg shadow-lg hover:bg-gray-200 transition transform hover:-translate-y-1">
+          {/* <div className="flex items-center space-x-4 p-6 bg-gray-100 rounded-lg -gray-200 transition transform hover:-translate-y-1">
             <div className="text-blue-400 text-3xl animate-bounce">
               <i className="fas fa-envelope"></i>
             </div>
@@ -151,10 +151,10 @@ const ContactUs = () => {
       </div>
 
       {/* Map Section */}
-    
+
 
       {/* Footer */}
-     
+
     </div>
   );
 };

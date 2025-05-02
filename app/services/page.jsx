@@ -22,7 +22,7 @@
 
 //         {/* Basic Package */}
 //         <div className="p-4">
-//           <div className="border border-gray-300 rounded-2xl bg-opacity-90 bg-white shadow-lg p-6 hover:shadow-2xl transition-all duration-300 ease-in-out">
+//           <div className="border border-gray-300 rounded-2xl bg-opacity-90 bg-white  p-6 hover:shadow-2xl transition-all duration-300 ease-in-out">
 //             <h3 className="text-center font-semibold text-xl lg:text-2xl bg-gray-800 text-white py-4 rounded-xl mb-6">Basic <br /> (But Good Enough)</h3>
 //             <div className="flex justify-between mb-6">
 //               <div className="w-full">
@@ -86,7 +86,7 @@
 
 //         {/* Premium Package */}
 //         <div className="p-4 mt-8">
-//           <div className="border border-gray-300 bg-opacity-90 rounded-2xl bg-white shadow-lg p-6 hover:shadow-2xl transition-all duration-300 ease-in-out">
+//           <div className="border border-gray-300 bg-opacity-90 rounded-2xl bg-white r:shadow-2xl transition-all duration-300 ease-in-out">
 //             <h3 className="text-center font-semibold text-xl lg:text-2xl bg-yellow-800 text-white py-4 rounded-xl mb-6">Premium <br /> (The Ultimate Experience)</h3>
 //             <div className="flex justify-between mb-6">
 //               <div className="w-full">
@@ -157,7 +157,7 @@
 
 //         {/* Luxury Package */}
 //         <div className="p-4 mt-8">
-//           <div className="border border-gray-300 bg-opacity-90 rounded-2xl bg-white shadow-lg p-6 hover:shadow-2xl transition-all duration-300 ease-in-out">
+//           <div className="border border-gray-300 bg-opacity-90 rounded-2xl bg-white r:shadow-2xl transition-all duration-300 ease-in-out">
 //             <h3 className="text-center  font-semibold text-xl lg:text-2xl bg-purple-800 text-white py-4 rounded-xl mb-6">Luxury <br />(The Grand Experience)</h3>
 //             <div className="flex justify-between mb-6">
 //               <div className="w-full">
