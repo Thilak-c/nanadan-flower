@@ -7,7 +7,7 @@ export default function Newsletter() {
         </div>
         <div className="max-w-4xl mx-auto px-6 flex justify-center">
           <form className="flex space-x-4">
-            <input type="email" className="px-6 py-3 w-80 border border-gray-300 rounded-lg" placeholder="Enter your email" />
+            <input type="email" className="px-6 py-3 w-[250px] border border-gray-300 rounded-lg" placeholder="Enter your email" />
             <button type="submit" className="bg-red-500 text-white px-6 py-3 rounded-lg">Subscribe</button>
           </form>
         </div>

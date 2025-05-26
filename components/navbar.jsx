@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className="flex items-center space-x-3">
           <a href="/">
             <img
-              src="/favicon.ico"
+              src="ChatGPT_Image_May_26__2025__11_51_06_PM-removebg-preview.png"
               className="cursor-pointer w-12 md:w-[70px] rounded-full"
               alt="Logo"
             />
